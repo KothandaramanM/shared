@@ -8,7 +8,7 @@ def call() {
             //             git branch: 'node-dev', url: 'https://github.com/naresh26git/multi-branch.git'
             //         }
             //     }
-            // }
+            // } 
             stage ('Build') {
                 steps {
                     script {
